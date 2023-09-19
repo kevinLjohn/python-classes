@@ -1,10 +1,10 @@
 # 1. In your on words, describe what a variable is.
 
-#"A variable is a value that changes depending on what you put after or before it"
+#"containor"
 
 # 2. Name three (3) operators we've learned about in class and describe 
 # a situation where you would use each one. 
-#>=
+#arithmatic = math (adding and multiplication)
 #=
 #+=
 
@@ -19,7 +19,7 @@ numberOfOranges = 12
 
 numberOfApples < numberOfOranges
 
-#"lass than equal to"
+#"comparerson"
 
 # 5. You have been given a $100.00 dollar gift card from a family member. Another 
 # family member adds 50.00 dollars to your gift card and a friend gives you $35.50. 
@@ -50,7 +50,7 @@ age = input("how old are you? ")
 allergy = input("do you have alargies and if yes what are they? ")
 foood = input("what is your favorite food? ")
 
-# 8. You have been given a job to create a program for a sandwich shop. The sandwich shop
+ # 8. You have been given a job to create a program for a sandwich shop. The sandwich shop
 # wants to be able to know if a user has a gluten allegery before they make the sandwich order.
 # If the user DOES have a glutten allergy, they need to eat a special type of bread, if the user DOES NOT
 # have an allergy they can eat the regular bread. What data type would best be used in this 
