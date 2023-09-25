@@ -1,19 +1,20 @@
 # 1. In your own words, describe what a function is
  "reusable code instructions"
 # 2. What is are function parameters and arguments and describe
- "the difference between the two is that the parameters are what it can go to and the arguments are what stops/control it's movements"
+ "the difference between the two is that the parameters are placeholders while arguments are the data used
 # a functions paramters are what it's allowed to do and the arguments are what they're not allowed to do.
 # 3. write a function that will print out a welcome message
 # that includes a users name. You will need to use parameters and arguments
-def welcome():
-   print(welcome)
+def welcome(greeting):
+   name = input("what is your name")
+   print("Welcome " + name))
 # 4. Write a function that will do a calculation that takes 3 parameters.
 # Your function can do any of the arithmatic operators (add, subtract, multiply, divide)
-def Hyp():
-  |   print(input("3x "))
-|   print(input("3+ "))
-|   print(input("3- "))
-# 5. Write a function that will output a message to a user, telling them
+def calculation():
+  number = input("input a number ")
+  print(3* number)
+  print(3+ number)
+  print(3- number)
 # what class they have next after this one. this code should use a 
 # variable to pass a value into the parameter of a function. The variable should
 # be real, user data- not hard coded data.
