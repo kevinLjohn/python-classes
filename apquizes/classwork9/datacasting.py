@@ -7,7 +7,7 @@ print(float(b))
 c= 12.34
 d= 23.33
 print(int(c))
-print(int(d))
+print(int(d))9
 # modify the code below to print an integer number. 
 num_one= 20
 num_two= 23.45
