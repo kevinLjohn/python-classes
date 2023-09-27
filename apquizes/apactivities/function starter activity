@@ -1,7 +1,7 @@
 # 1. In your own words, describe what a function is
  "reusable code instructions"
 # 2. What is are function parameters and arguments and describe
- "the difference between the two is that the parameters are placeholders while arguments are the data used
+ "the difference between the two is that the parameters are placeholders while arguments are the data used"
 # a functions paramters are what it's allowed to do and the arguments are what they're not allowed to do.
 # 3. write a function that will print out a welcome message
 # that includes a users name. You will need to use parameters and arguments
