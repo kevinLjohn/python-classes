@@ -20,7 +20,7 @@ else
 # When you call your function there should be an argument that accepts 
 # a boolean.
 
-Food = True
+Food = input("is there food ")
 
 
 
@@ -34,4 +34,5 @@ else food == False
 # your function should parameter should accept an integer. In your function
 # use a conditional statement to determine if you need to order more cereal.
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
-# 10 boxes print "we need to order more cereal".
+# 10 boxes print "we need to order more cereal". 
+
