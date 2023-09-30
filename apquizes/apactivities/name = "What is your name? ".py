@@ -1,5 +1,5 @@
 name = input("What is your name? ")
-height = input("how tall are you? "
+height = input("how tall are you? ")
 
 def requirments(name, height):
     if height > 5.5
