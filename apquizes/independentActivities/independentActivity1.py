@@ -54,3 +54,23 @@ added_item = input("what item would you like to add? ")
 shopping_cart.append(added_item) 
 
 print (shopping_cart)
+
+
+
+#classwork
+
+list_items= ['apple', 'orange', 'book']
+
+apple= 1.00
+orange= 3.00
+book= 10.00
+
+def shoppinglist():
+    add= input("What would you like to add? ")
+    list_items.append(add)
+    add_price= float(input("How much does this item cost? "))
+    print(list_items + " All this will cost you")
+    total_price = (apple + orange + book + add_price)
+    print(total_price)
+
+shoppinglist()
