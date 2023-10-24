@@ -39,9 +39,7 @@ light = 1
 while light < 30
     print('green light')
     light += 1
-    break
-
-while light > 60
+    while light > 60
     print('red light')
     light -= 1
     break
