@@ -1,6 +1,6 @@
-MONDAY ASYNC ACTIVITY
+#MONDAY ASYNC ACTIVITY
 
-Please visit and read the articles found on the links below:
+#Please visit and read the articles found on the links below:
 
 - Documentation
 https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/#:~:text=Your%20first%20steps%20in%20documentation,will%20serve%20your%20project%20well.
@@ -22,7 +22,11 @@ _______________________________________________________________________________
 
 2. In your own words, describe what a README.md document is.
 
+#A readme.md is a document that is requred to be read
+
 3. Based on what your read, what are four (4) things that should be in a README document. 
+
+#
 
 4. Name and describe three (3) reasons why programmers write commmit messages when using GitHub.
 

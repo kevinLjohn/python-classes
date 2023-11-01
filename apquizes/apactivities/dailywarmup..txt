@@ -1,0 +1,1 @@
+version control is the act of documenting the changes made to a website as versions.
