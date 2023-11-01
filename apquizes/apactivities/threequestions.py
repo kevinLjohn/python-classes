@@ -1,5 +1,5 @@
-#What is their main goal?
+#Were there any  misconmuications while making the company
 
-#what would they do if they failed at their goal.
+#what is there main reason for making the company
 
 #What is one thing they have in common with other coding companies.
