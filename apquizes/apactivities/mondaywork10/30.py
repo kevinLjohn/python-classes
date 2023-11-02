@@ -26,8 +26,12 @@ _______________________________________________________________________________
 
 3. Based on what your read, what are four (4) things that should be in a README document. 
 
-#
+#1:actual infomation 2:the task or statement 3:objective 4: mini summery on what it's about
 
 4. Name and describe three (3) reasons why programmers write commmit messages when using GitHub.
 
+#1:so others can see it 2:to save changes 3:documentation
+
 5. Describe three things (3) negative outcomes that could happen if a programmer has bad or no documentation.
+
+#1:they can lose their work 2:can get kicked out a progarmmer company 3:miscomunation 
